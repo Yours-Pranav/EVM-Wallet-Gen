@@ -28,3 +28,9 @@ A simple Python script to generate one or more Ethereum wallet addresses and the
 ```bash
 git clone https://github.com/Yours-Pranav/EVM-Wallet-Gen.git
 cd EVM-Wallet-Gen
+# 📦 Install Python dependencies
+pip install web3
+
+# 🧪 Run the script
+python main.py
+
