@@ -34,3 +34,15 @@ pip install web3
 # 🧪 Run the script
 python main.py
 
+
+
+## 🖥️ Example Terminal Output
+
+When you run the script:
+
+```bash
+$ python main.py
+🔢 How many Ethereum wallets do you want to generate? 3
+Generated 3 Ethereum wallets.
+Saved to 'eth_addresses.txt' and 'eth_private_keys.txt'
+
